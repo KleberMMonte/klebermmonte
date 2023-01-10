@@ -1,8 +1,8 @@
 ### Olá, sou Kleber Monte!
 
-- 🔭 Estou trabalhando recentemente com Front-End.
-- 🌱 Aprimorando meus conhecimentos em React Js e Ruby on Rails.
-- 👯 Colaborando com Projetos Front-End.
+- Estou trabalhando recentemente com Front-End.
+- Aprimorando meus conhecimentos em React Js e Ruby on Rails.
+- Colaborando com Projetos Front-End.
 
 <div>
 <a href="https://github.com/KleberMMonte">
